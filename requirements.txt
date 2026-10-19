@@ -1,0 +1,3 @@
+﻿openaq
+pandas
+matplotlib
