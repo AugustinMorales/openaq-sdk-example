@@ -7,7 +7,7 @@ The default query answers the question from OpenAQ's official guide: *What was t
 
 ## Requirements
 
-- Python 3.10 or newer
+- Python 3.11 or newer
 - A free OpenAQ API key ([register here](https://explore.openaq.org/register); the key is on your [account settings](https://explore.openaq.org/account) page)
 - Packages listed in `requirements.txt`: `openaq`, `pandas`, `matplotlib`
 
